@@ -1,7 +1,7 @@
 {
-  "name": " k2-aai-walls-resistance",
+  "name": "k2-aai-walls-resistance",
   "version": "0.0.1",
-  "title": "AAI-Krastorio2 walls resistance",
+  "title": "K2-AAI walls resistance",
   "author": "artegz",
   "contact": "artemsmirnov90@gmail.com",
   "homepage": "https://github.com/artegz/k2-aai-walls-resistance",
@@ -9,7 +9,7 @@
   "dependencies": [
     "base",
     "aai-industry",
-	"Krastorio2"
+    "Krastorio2"
   ],
   "description": "Make AAI Industry walls (concrete and steel) resistant to Krastorio2 damage types (such as railgun turret explosion damage)."
 }
