@@ -1,15 +1,15 @@
 {
-  "name": "k2-railgun-resistant-aai-walls",
+  "name": " k2-aai-walls-resistance",
   "version": "0.0.1",
-  "title": "Krastorio2 railgun resistant AAI walls tweak",
+  "title": "AAI-Krastorio2 walls resistance",
   "author": "artegz",
   "contact": "artemsmirnov90@gmail.com",
-  "homepage": "",
+  "homepage": "https://github.com/artegz/k2-aai-walls-resistance",
   "factorio_version": "1.1",
   "dependencies": [
     "base",
     "aai-industry",
 	"Krastorio2"
   ],
-  "description": "Add resistance for AAI Industry concrete and steel walls to Krastorio2 railgun turret explosion damage (by analogy to vanilla walls)."
+  "description": "Make AAI Industry walls (concrete and steel) resistant to Krastorio2 damage types (such as railgun turret explosion damage)."
 }

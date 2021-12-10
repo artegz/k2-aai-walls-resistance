@@ -2,4 +2,4 @@
 Version: 0.0.1
 Date: 10.12.2021
   Changes:
-    - Initial
+    - Add 'kr-explosion' and 'radioactive' damage type resistance to steel and concrete walls 
